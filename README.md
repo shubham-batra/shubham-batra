@@ -17,7 +17,7 @@ Current CS major at University of California, Riverside. Intend to graduate by S
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## Follow Me
-[![Linkedin Badge](https://img.shields.io/badge/-Shubham_Batra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-batra/)](https://www.linkedin.com/in/shubham-batra)
+[![Linkedin Badge](https://img.shields.io/badge/-Shubham_Batra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-batra1/)](https://www.linkedin.com/in/shubham-batra1)
 
 
 
