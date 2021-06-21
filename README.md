@@ -14,8 +14,6 @@ I am a current computer science major at the University of California, Riverside
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=CSS3)
-![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=Javascript)
-
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
