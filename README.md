@@ -19,7 +19,7 @@ I am a current computer science major at the University of California, Riverside
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux)
-
+![Pandas](https://img.shields.io/badge/-Pandas-181717?style=flat-square&logo=pandas)
 
 ## Follow Me
 [![Linkedin Badge](https://img.shields.io/badge/-Shubham_Batra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-batra1/)](https://www.linkedin.com/in/shubham-batra1)
