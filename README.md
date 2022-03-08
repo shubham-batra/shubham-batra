@@ -1,7 +1,7 @@
 ## Welcome to my GitHub Page! Please feel free to view my repositories below.
 
 ## Profile
-I am a current computer science major at the University of California, Riverside. I intend to graduate by Spring 2022. I am interested mostly in front-end web development but am open to learning about other fields also. 
+I am a current computer science major at the University of California, Riverside. I intend to graduate by Spring 2022. I am interested mostly in front-end web development along with data science but am open to learning about other fields also. 
 
 ## Stats :computer:
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham-batra&show_icons=true&theme=radical)
