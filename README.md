@@ -17,6 +17,8 @@ I graduated from the University of California, Riverside in 2022 with a B.S. in 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-E34F26?style=for-the-badge&logoColor=white)
+
 
 ### Frameworks
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -42,6 +44,8 @@ I graduated from the University of California, Riverside in 2022 with a B.S. in 
 
 ## Follow Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-batra1/)
+[![Website](https://img.shields.io/badge/Website-grey?style=for-the-badge)](https://shubham-batra.github.io)
+
 
 
 
