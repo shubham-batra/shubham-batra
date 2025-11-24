@@ -12,37 +12,36 @@ I graduated from the University of California, Riverside in 2022 with a B.S. in 
 
 ## Technologies
 ### Languages
-![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=CSS3)
-![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=Javascript)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Libraries
-![Pandas](https://img.shields.io/badge/-Pandas-181717?style=flat-square&logo=pandas)
-![React](https://img.shields.io/badge/-React-181717?style=flat-square&logo=React)
-![Node](https://img.shields.io/badge/-Node.js-181717?style=flat-square&logo=Node.js)
-![Express](https://img.shields.io/badge/-Express-181717?style=flat-square&logo=Express)
-![NumPy](https://img.shields.io/badge/-NumPy-181717?style=flat-square&logo=Numpy)
-![Skeleton](https://img.shields.io/badge/-Skeleton-181717?style=flat-square&logo=Skeleton)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-181717?style=flat-square&logo=Matplotlib)
-![Seaborn](https://img.shields.io/badge/-Seaborn-181717?style=flat-square&logo=Seaborn)
+### Frameworks
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-181717?style=flat-square&logo=MongoDB)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Version Control
-![Git](https://img.shields.io/badge/-Git-181717?style=flat-square&logo=Git)
-![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github)
+### Cloud
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### Other
-![Linux](https://img.shields.io/badge/-Linux-181717?style=flat-square&logo=Linux)
-![Vim](https://img.shields.io/badge/-Vim-181717?style=flat-square&logo=Vim)
-![LaTeX](https://img.shields.io/badge/-LaTeX-181717?style=flat-square&logo=LaTeX)
+### Technologies
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
 
 ## Follow Me
-[![Linkedin Badge](https://img.shields.io/badge/-Shubham_Batra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-batra1/)](https://www.linkedin.com/in/shubham-batra1)
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-batra1/)
 
 
 
