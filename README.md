@@ -1,7 +1,8 @@
 ## Welcome to my GitHub Page! Please feel free to view my repositories below.
 
 ## Profile
-I am a current computer science major at the University of California, Riverside. I intend to graduate by Spring 2022. I am interested mostly in front-end web development along with data science but am open to learning about other fields also. 
+I graduated from the University of California, Riverside in 2022 with a B.S. in Computer Science, building a strong foundation in full-stack development. Most recently, I contributed to Optum’s UHC Mobile and Workforce Management teams, tackling real-world challenges in software engineering. I am passionate about advancing my full-stack expertise and exploring the frontiers of AI to create meaningful, impactful solutions.
+
 
 ## Stats :computer:
 ![Shubham's Github stats](https://github-readme-stats.vercel.app/api?username=shubham-batra&show_icons=true&theme=radical)
